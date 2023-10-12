@@ -49,6 +49,7 @@ my_vars
 # Functions can also be used to import data
 ds <- read.csv('data_raw/vocab16.csv')
 print(ds)
+print(ds)
 
 # read.csv is part of base R, the default fx set
 # When we want to use functions to expand R, we
